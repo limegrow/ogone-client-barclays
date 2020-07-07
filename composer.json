@@ -20,7 +20,7 @@
         "ext-curl": "*",
         "ext-mbstring": "*",
         "ext-bcmath": "*",
-        "ingenico/ogone-sdk-php-barclays-barclays": ">=2.0.0",
+        "ingenico/ogone-sdk-php-barclays": ">=2.0.0",
         "monolog/monolog": "*",
         "league/iso3166": "~2.1",
         "graylog2/gelf-php": "~1.5",
